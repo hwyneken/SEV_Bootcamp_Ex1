@@ -4,6 +4,12 @@ replication_basic/data/
 replication_basic/images/
 replication_basic/old_code
 
+#### replication_targets
+replication_targets/.Rprofile
+replication_targets/_targets
+replication_targets/data
+replication_targets/images
+
 
 # History files
 .Rhistory
