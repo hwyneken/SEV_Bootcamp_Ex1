@@ -1,3 +1,10 @@
+#### replication_basic
+replication_basic/.Rprofile
+replication_basic/data/
+replication_basic/images/
+replication_basic/old_code
+
+
 # History files
 .Rhistory
 .Rapp.history

@@ -1,0 +1,26 @@
+### Active Scripts
+
+## renv for reproducibility
+## seems useful
+# if you clone this and want to use the same packages as me, call renv::init()
+# I will the renv.lock in the repository
+https://www.rstudio.com/blog/renv-project-environments-for-r/#:~:text=renv%20is%20an%20R%20dependency,about%20breaking%20your%20other%20projects.
+
+## Create_Theme_Objects.R
+# only needs to be run once
+# defines the theme for the projects ggplot objects
+
+## Sepien_Distribution.R
+# helper script
+# generates the distributions for Figure 1
+
+## Sepien_Distribution_Sim.R
+# runs the simulations to get the distributions 
+#   in Figure 1
+
+## Make_Sepien_Dist_Plot.R
+# uses the simulation output from the previous script to create
+#   Figure 1. Uses the theme defined in Create_Theme_Objects.R
+
+## Decision_Points_Sim.R
+# generates the type I error and power results for table 1
