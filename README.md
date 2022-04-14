@@ -1,2 +1,3 @@
 # SEV_Bootcamp_Ex1
-optional stopping guideance example
+optional sampling guidance example
+see the file WORKFLOW_README for instructions on running the code
